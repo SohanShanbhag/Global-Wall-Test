@@ -1,1 +1,2 @@
-# Global-Wall-Test
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
